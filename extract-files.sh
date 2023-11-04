@@ -10,7 +10,7 @@ function blob_fixup() {
     case "${1}" in
     vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so | vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so | vendor/lib64/libgoodixhwfingerprint.so)
         # fingerprint: use libhidlbase-v32 for goodix
-        grep -q "libhidlbase-v32.so" "${2}" || "${PATCHELF}" --replace-needed "libhidlbase.so" "libhidlbase-v32.so" "${2}"
+        grep -q "libhidlbase-v32.so" "${2}" || "${PATCHELF_0_17_2}" --replace-needed "libhidlbase.so" "libhidlbase-v32.so" "${2}"
         ;;
     esac
 }

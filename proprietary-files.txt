@@ -252,9 +252,9 @@ vendor/lib/vendor.qti.hardware.fingerprint@1.0.so|38b7de2549454337435f935abdddab
 vendor/lib64/hw/fingerprint.default.so:vendor/lib64/hw/fingerprint.goodix_fod.msmnile.so|bb55c8f8fb56ea2f4e9b9673cc21b362f8ab5c30
 vendor/lib64/libgf_ca.so|c1662fb3bbd161874542455879043b675b339a76
 vendor/lib64/libgf_hal.so|cc0741579dbb24e329ad33f454c203eb9b973eee
-vendor/lib64/libgoodixhwfingerprint.so|b2f9b25cb4fa67ed0e222fb22b816589e08e0bf8
-vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so|394c3d41780ce46f85a013ea41529ef038337489
-vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so|c38c492793b6e2e8b71e547f51ed28870f26e0eb
+vendor/lib64/libgoodixhwfingerprint.so|4a6c3598e01f2bbc68bd20c0c5d869f8cf912b69
+vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so|d1de8e795ca64e00d6577a9448145add4a67e46e
+vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so|9dd6ac35ca64a917da2ba6e2e966637ef1410daf
 
 # NFC - from vayu_global-user 11 RKQ1.200826.002 V12.5.3.0.RJUMIXM release-keys
 vendor/etc/libnfc-nci.conf|b9536ba10090d460df8a332331225cd279619583
