@@ -16,12 +16,11 @@
 */
 -->
 <resources>
-    <dimen name="config_rounded_mask_size">100px</dimen>
     <dimen name="rounded_corner_content_padding">50px</dimen>
     <dimen name="system_icons_keyguard_padding_end">4dp</dimen>
 
     <!-- the padding on the top of the statusbar (usually 0) -->
-    <dimen name="status_bar_padding_top">3dp</dimen>
+    <dimen name="status_bar_padding_top">4dp</dimen>
     
     <!-- Bottom margin size when fingerprint in display is active -->
     <dimen name="keyguard_indication_margin_bottom_fingerprint_in_display">831px</dimen>

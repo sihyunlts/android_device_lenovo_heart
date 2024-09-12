@@ -18,10 +18,10 @@
      for different hardware and product builds.  Do not translate. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Height of the status bar -->
-    <dimen name="status_bar_height_portrait">27dp</dimen>
+    <dimen name="status_bar_height_portrait">30dp</dimen>
 
     <!-- Height of the status bar in landscape -->
-    <dimen name="status_bar_height_landscape">26dp</dimen>
+    <dimen name="status_bar_height_landscape">30dp</dimen>
 
     <!-- Radius of the software rounded corners at the top of the display in its natural
          orientation. If zero, the value of rounded_corner_radius is used. -->
@@ -47,5 +47,5 @@
     </integer-array>
 
     <!-- How long it takes for the HW to start illuminating after the illumination is requested. -->
-    <integer name="config_udfps_illumination_transition_ms">0</integer>
+    <integer name="config_udfps_illumination_transition_ms">40</integer>
 </resources>
