@@ -18,10 +18,8 @@ PRODUCT_PACKAGES += \
     FrameworksResHeart \
     DialerConfigHeart \
     SettingsResHeart \
+    SettingsProviderOverlayHeart \
     SystemUIResHeart
-
-# DEVICE_PACKAGE_OVERLAYS += \
-#     $(LOCAL_PATH)/overlay-lineage
 
 # Permissions
 PRODUCT_COPY_FILES += \
