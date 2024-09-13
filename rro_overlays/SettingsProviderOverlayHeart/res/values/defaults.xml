@@ -17,4 +17,7 @@
 <resources>
      <!-- Default for Settings.Global.DEVICE_NAME $1=MODEL-->
      <string name="def_device_name_simple">Lenovo Z5 Pro GT</string>
+
+     <!-- Default for LineageSettings.Secure.VOLUME_PANEL_ON_LEFT -->
+    <bool name="def_volume_panel_on_left">true</bool>
 </resources>
